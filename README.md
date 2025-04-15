@@ -46,6 +46,8 @@ Finalmente probé con DeepSeek R1, un modelo de lenguaje open source creado en C
 
 🚴‍♂️ **Validación y resultados**
 
+   ![Image](https://github.com/user-attachments/assets/727ebf5c-1191-447f-8a18-61ffef8ee890)
+
 Para calibrar, pasé en bicicleta a velocidad conocida. Luego analicé una muestra de 115 vehículos (solo un sentido). Resultados:
 
 Velocidad promedio: 32 km/h
